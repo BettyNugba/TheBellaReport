@@ -1,10 +1,10 @@
-name: "MyLabJournal"
+name: "TheBellaReport"
 navbar:
-  title: "MyLabJournal"
+  title: "TheBellaReport"
   left:
-    - text: "Home"
+    - text: "Project Home"
       href: index.html
-    - text: "Journal"
+    - text: "Data"
       href: Journal.html
     - text: "Links"
       href: Links.html
